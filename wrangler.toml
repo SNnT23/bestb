@@ -1,0 +1,8 @@
+name = "bestb"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "manlove", id = "dcb9afae7f6d45c484bc197b7e2928ad" }
+]
